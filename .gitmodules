@@ -1,4 +1,3 @@
-
 [submodule "msdfgen"]
 	path = msdfgen
-	url = https://github.com/JHeflinger/msdfgen/
+	url = https://github.com/JHeflinger/msdfgen
